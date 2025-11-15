@@ -1,8 +1,7 @@
 # 💫 About Me:
 I'm a developer passionate about building web applications and automating workflows with Python.
-🚀 What I'm Working On
 
-Building and designing various websites
+🚀 What I'm Working On Building and designing various websites
 Automating tasks and processes with Python
 Experimenting with AI tools and LLMs
 Learning Docker and containerization
